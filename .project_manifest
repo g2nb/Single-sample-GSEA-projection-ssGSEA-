@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "GenePattern Notebook for performing ssGSEA",
+    "image": "Legacy",
+    "name": "Single-sample GSEA projection (ssGSEA)"
+}
